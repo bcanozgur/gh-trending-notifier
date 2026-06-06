@@ -4,47 +4,47 @@
     "CopilotKit/CopilotKit": {
       "first_seen": "2026-06-07",
       "last_rank": 2,
-      "last_score": 82.4,
+      "last_score": 77.2,
       "last_seen": "2026-06-07",
       "last_stars_today": 613,
-      "last_total_stars": 33158
+      "last_total_stars": 33161
     },
     "MemPalace/mempalace": {
       "first_seen": "2026-06-07",
       "last_rank": 3,
-      "last_score": 77.29,
+      "last_score": 72.09,
       "last_seen": "2026-06-07",
       "last_stars_today": 441,
-      "last_total_stars": 54233
+      "last_total_stars": 54235
     },
     "PaddlePaddle/PaddleOCR": {
       "first_seen": "2026-06-07",
       "last_rank": 17,
-      "last_score": 70.84,
+      "last_score": 65.64,
       "last_seen": "2026-06-07",
       "last_stars_today": 449,
-      "last_total_stars": 80925
+      "last_total_stars": 80926
     },
     "Panniantong/Agent-Reach": {
       "first_seen": "2026-06-07",
       "last_rank": 6,
-      "last_score": 81.56,
+      "last_score": 76.36,
       "last_seen": "2026-06-07",
       "last_stars_today": 700,
-      "last_total_stars": 22248
+      "last_total_stars": 22250
     },
     "aquasecurity/trivy": {
       "first_seen": "2026-06-07",
       "last_rank": 9,
-      "last_score": 63.36,
+      "last_score": 58.16,
       "last_seen": "2026-06-07",
       "last_stars_today": 159,
-      "last_total_stars": 35987
+      "last_total_stars": 35989
     },
     "golang/go": {
       "first_seen": "2026-06-07",
       "last_rank": 10,
-      "last_score": 46.07,
+      "last_score": 40.87,
       "last_seen": "2026-06-07",
       "last_stars_today": 24,
       "last_total_stars": 134497
@@ -52,98 +52,98 @@
     "lfnovo/open-notebook": {
       "first_seen": "2026-06-07",
       "last_rank": 11,
-      "last_score": 58.28,
+      "last_score": 53.08,
       "last_seen": "2026-06-07",
       "last_stars_today": 783,
-      "last_total_stars": 26561
+      "last_total_stars": 26562
     },
     "microsoft/VibeVoice": {
       "first_seen": "2026-06-07",
       "last_rank": 18,
-      "last_score": 56.28,
+      "last_score": 51.08,
       "last_seen": "2026-06-07",
       "last_stars_today": 219,
-      "last_total_stars": 48443
+      "last_total_stars": 48444
     },
     "microsoft/mxc": {
       "first_seen": "2026-06-07",
       "last_rank": 16,
-      "last_score": 61.52,
+      "last_score": 56.32,
       "last_seen": "2026-06-07",
       "last_stars_today": 57,
-      "last_total_stars": 553
+      "last_total_stars": 555
     },
     "mvanhorn/last30days-skill": {
       "first_seen": "2026-06-07",
       "last_rank": 1,
-      "last_score": 72.02,
+      "last_score": 66.82,
       "last_seen": "2026-06-07",
       "last_stars_today": 441,
-      "last_total_stars": 28717
+      "last_total_stars": 28720
     },
     "nginx/nginx": {
       "first_seen": "2026-06-07",
       "last_rank": 8,
-      "last_score": 59.7,
+      "last_score": 54.5,
       "last_seen": "2026-06-07",
       "last_stars_today": 37,
-      "last_total_stars": 30664
+      "last_total_stars": 30669
     },
     "openai/plugins": {
       "first_seen": "2026-06-07",
       "last_rank": 5,
-      "last_score": 71.66,
+      "last_score": 66.46,
       "last_seen": "2026-06-07",
       "last_stars_today": 215,
-      "last_total_stars": 1740
+      "last_total_stars": 1743
     },
     "openai/whisper": {
       "first_seen": "2026-06-07",
       "last_rank": 14,
-      "last_score": 70.56,
+      "last_score": 65.36,
       "last_seen": "2026-06-07",
       "last_stars_today": 155,
-      "last_total_stars": 101819
+      "last_total_stars": 101820
     },
     "sponsors/danielmiessler": {
       "first_seen": "2026-06-07",
       "last_rank": 4,
-      "last_score": 37.34,
+      "last_score": 32.14,
       "last_seen": "2026-06-07",
       "last_stars_today": 63,
-      "last_total_stars": 14920
+      "last_total_stars": 14922
     },
     "sponsors/obra": {
       "first_seen": "2026-06-07",
       "last_rank": 12,
-      "last_score": 46.01,
+      "last_score": 40.81,
       "last_seen": "2026-06-07",
       "last_stars_today": 1008,
-      "last_total_stars": 219595
+      "last_total_stars": 219600
     },
     "sponsors/santifer": {
       "first_seen": "2026-06-07",
       "last_rank": 13,
-      "last_score": 37.21,
+      "last_score": 32.01,
       "last_seen": "2026-06-07",
       "last_stars_today": 203,
-      "last_total_stars": 49251
+      "last_total_stars": 49252
     },
     "sponsors/sveltejs": {
       "first_seen": "2026-06-07",
       "last_rank": 7,
-      "last_score": 22.65,
+      "last_score": 17.45,
       "last_seen": "2026-06-07",
       "last_stars_today": 34,
-      "last_total_stars": 86953
+      "last_total_stars": 86955
     },
     "sponsors/vitejs": {
       "first_seen": "2026-06-07",
       "last_rank": 15,
-      "last_score": 21.49,
+      "last_score": 16.29,
       "last_seen": "2026-06-07",
       "last_stars_today": 73,
-      "last_total_stars": 81157
+      "last_total_stars": 81160
     }
   }
 }

@@ -106,17 +106,3 @@ API provider secrets:
 Generated archives are written under `data/runs/`, previews under
 `data/previews/`, state under `data/state.json`, and send markers under
 `data/sent/`.
-
-## Planning Artifacts
-
-- [Research](docs/research.md)
-- [Implementation plan](docs/plan.md)
-- [Subagent brainstorm](docs/subagent-brainstorm.md)
-
-## Repo-Local Agent Setup
-
-- Skill: `.agents/skills/github-trending-newsletter/SKILL.md`
-- Agents:
-  - `.agents/agents/trending-product-editor.md`
-  - `.agents/agents/trending-technical-architect.md`
-  - `.agents/agents/trending-ops-reliability.md`

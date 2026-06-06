@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+from datetime import date as date_type
 from pathlib import Path
 from typing import Any
 
@@ -53,7 +54,35 @@ def record_run(root: Path, newsletter: Newsletter) -> Path:
     return path
 
 
-def update_state(root: Path, date: str, ranked: list[RankedRepo]) -> Path:
+def recently_sent_names(state: dict, today: str, window_days: int) -> set[str]:
+    """Repo full_names that were included in a sent newsletter within the last
+    `window_days` days (so they should be skipped to avoid re-sending)."""
+    if window_days <= 0:
+        return set()
+    try:
+        today_date = date_type.fromisoformat(today)
+    except ValueError:
+        return set()
+    skip: set[str] = set()
+    for name, entry in state.get("repos", {}).items():
+        last_sent = entry.get("last_sent")
+        if not last_sent:
+            continue
+        try:
+            sent_date = date_type.fromisoformat(last_sent)
+        except (ValueError, TypeError):
+            continue
+        if 0 <= (today_date - sent_date).days < window_days:
+            skip.add(name)
+    return skip
+
+
+def update_state(
+    root: Path,
+    date: str,
+    ranked: list[RankedRepo],
+    sent_names: set[str] | None = None,
+) -> Path:
     path = state_path(root)
     current = read_json(path, {"repos": {}})
     repos = current.setdefault("repos", {})
@@ -65,6 +94,11 @@ def update_state(root: Path, date: str, ranked: list[RankedRepo]) -> Path:
         entry["last_score"] = item.score.total
         entry["last_stars_today"] = item.repo.stars_today
         entry["last_total_stars"] = item.repo.total_stars
+        if sent_names and item.repo.full_name in sent_names:
+            entry["last_sent"] = date
+            sent_on = entry.setdefault("sent_on", [])
+            if date not in sent_on:
+                sent_on.append(date)
     current["last_run"] = date
     write_json(path, current)
     return path

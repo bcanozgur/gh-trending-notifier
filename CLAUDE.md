@@ -247,5 +247,8 @@ pip install -e .
 
 - `APP_TIMEZONE` — IANA timezone (default: `Europe/Istanbul`)
 - `GH_TOKEN` — GitHub API token for enrichment (read-only; optional for dry-run)
+- `NEWSLETTER_MAX_REPOS` — max repositories featured per newsletter (default: `10`)
+- `NEWSLETTER_DEDUPE_DAYS` — suppress a repo for N days after it was sent, so each
+  edition only carries repos not already sent in that window (default: `7`; set `0` to disable)
 - `PYTHONPATH=src` — must be set for import discovery
 - `PYTHONDONTWRITEBYTECODE=1` — suppress `.pyc` generation (recommended for CLI)

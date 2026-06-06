@@ -16,10 +16,16 @@ from gh_trending_notifier.state import (
     read_json,
     record_run,
     record_sent,
+    recently_sent_names,
     state_path,
     update_state,
 )
 from gh_trending_notifier.trending import TRENDING_URL, fetch_trending_html, parse_trending_repos
+
+# How many repositories to feature in the newsletter, and for how many days a
+# repository is suppressed after it has been sent (to avoid repeats).
+DEFAULT_NEWSLETTER_LIMIT = 10
+DEFAULT_DEDUPE_DAYS = 7
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -79,15 +85,25 @@ def run_command(args: argparse.Namespace) -> int:
         enrichments = GitHubClient(token=token).enrich_many(repos)
 
     ranked = rank_repositories(repos, enrichments=enrichments, previous_state=state, today=date)
-    newsletter = build_newsletter(date, ranked)
+    selected = _select_for_newsletter(ranked, state, date)
+    newsletter = build_newsletter(date, selected)
     run_file = record_run(repo_root, newsletter)
 
+    skipped = len(ranked) - len(selected)
     print(f"Parsed {len(repos)} Trending repositories from {TRENDING_URL}.")
+    print(
+        f"Featuring {len(selected)} repositories "
+        f"(top {_newsletter_limit()}; {skipped} skipped as recently sent or over limit)."
+    )
     print(f"Wrote run archive: {run_file}")
     print(f"Subject: {newsletter.subject}")
     write_github_step_summary(newsletter, run_file)
 
     if args.send:
+        if not selected:
+            update_state(repo_root, date, ranked)
+            print(f"No new repositories for {date}; nothing to send.")
+            return 0
         recipients = parse_recipients(os.getenv("MAIL_TO"))
         result = send_newsletter(newsletter, args.email_provider, recipients)
         sent_file = record_sent(
@@ -97,13 +113,40 @@ def run_command(args: argparse.Namespace) -> int:
             recipients=result.recipients,
             message_id=result.message_id,
         )
-        update_state(repo_root, date, ranked)
+        sent_names = {item.repo.full_name for item in selected}
+        update_state(repo_root, date, ranked, sent_names=sent_names)
         print(f"Sent via {result.provider}; marker: {sent_file}")
     else:
         update_state(repo_root, date, ranked)
         print("Dry run only; email not sent.")
 
     return 0
+
+
+def _newsletter_limit() -> int:
+    return _positive_env("NEWSLETTER_MAX_REPOS", DEFAULT_NEWSLETTER_LIMIT)
+
+
+def _dedupe_days() -> int:
+    return _positive_env("NEWSLETTER_DEDUPE_DAYS", DEFAULT_DEDUPE_DAYS)
+
+
+def _positive_env(name: str, default: int) -> int:
+    raw = os.getenv(name)
+    if raw is None:
+        return default
+    try:
+        value = int(raw)
+    except ValueError:
+        return default
+    return value if value >= 0 else default
+
+
+def _select_for_newsletter(ranked, state, date):
+    """Drop repositories sent within the dedupe window, then keep the top N."""
+    skip = recently_sent_names(state, date, _dedupe_days())
+    eligible = [item for item in ranked if item.repo.full_name not in skip]
+    return eligible[: _newsletter_limit()]
 
 
 def _load_trending_document(path: str | None) -> str:

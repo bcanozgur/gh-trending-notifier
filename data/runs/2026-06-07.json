@@ -40,18 +40,18 @@
           "ts",
           "typescript"
         ],
-        "updated_at": "2026-06-06T21:55:28Z"
+        "updated_at": "2026-06-06T22:02:07Z"
       },
       "repo": {
         "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-        "forks": 4235,
+        "forks": 4236,
         "full_name": "CopilotKit/CopilotKit",
         "language": "TypeScript",
         "name": "CopilotKit",
         "owner": "CopilotKit",
         "rank": 2,
         "stars_today": 613,
-        "total_stars": 33164,
+        "total_stars": 33165,
         "url": "https://github.com/CopilotKit/CopilotKit"
       },
       "score": {
@@ -107,7 +107,7 @@
           "xiaohongshu",
           "youtube-transcript"
         ],
-        "updated_at": "2026-06-06T21:59:42Z"
+        "updated_at": "2026-06-06T22:04:13Z"
       },
       "repo": {
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
@@ -118,7 +118,7 @@
         "owner": "Panniantong",
         "rank": 6,
         "stars_today": 700,
-        "total_stars": 22255,
+        "total_stars": 22257,
         "url": "https://github.com/Panniantong/Agent-Reach"
       },
       "score": {
@@ -164,18 +164,18 @@
           "memory",
           "python"
         ],
-        "updated_at": "2026-06-06T21:58:35Z"
+        "updated_at": "2026-06-06T22:03:53Z"
       },
       "repo": {
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "forks": 7104,
+        "forks": 7105,
         "full_name": "MemPalace/mempalace",
         "language": "Python",
         "name": "mempalace",
         "owner": "MemPalace",
         "rank": 3,
         "stars_today": 441,
-        "total_stars": 54240,
+        "total_stars": 54241,
         "url": "https://github.com/MemPalace/mempalace"
       },
       "score": {
@@ -235,18 +235,18 @@
           "web-search",
           "youtube"
         ],
-        "updated_at": "2026-06-06T22:00:02Z"
+        "updated_at": "2026-06-06T22:03:40Z"
       },
       "repo": {
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "forks": 2433,
+        "forks": 2434,
         "full_name": "mvanhorn/last30days-skill",
         "language": "Python",
         "name": "last30days-skill",
         "owner": "mvanhorn",
         "rank": 1,
         "stars_today": 441,
-        "total_stars": 28727,
+        "total_stars": 28730,
         "url": "https://github.com/mvanhorn/last30days-skill"
       },
       "score": {
@@ -285,7 +285,7 @@
         "pushed_at": "2026-06-06T16:15:23Z",
         "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. Highlighted richer examples in this repo include: - `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules - `plugins/notion",
         "topics": [],
-        "updated_at": "2026-06-06T21:50:45Z"
+        "updated_at": "2026-06-06T22:04:04Z"
       },
       "repo": {
         "description": "OpenAI Plugins",
@@ -296,7 +296,7 @@
         "owner": "openai",
         "rank": 5,
         "stars_today": 215,
-        "total_stars": 1745,
+        "total_stars": 1746,
         "url": "https://github.com/openai/plugins"
       },
       "score": {
@@ -347,7 +347,7 @@
           "pp-structure",
           "rag"
         ],
-        "updated_at": "2026-06-06T21:59:52Z"
+        "updated_at": "2026-06-06T22:01:08Z"
       },
       "repo": {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
@@ -358,7 +358,7 @@
         "owner": "PaddlePaddle",
         "rank": 17,
         "stars_today": 449,
-        "total_stars": 80929,
+        "total_stars": 80930,
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
       },
       "score": {
@@ -396,7 +396,7 @@
         "pushed_at": "2026-04-15T16:32:15Z",
         "readme_excerpt": "# Whisper [[Blog]](https://openai.com/blog/whisper) [[Paper]](https://arxiv.org/abs/2212.04356) [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md) [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb) Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and lan",
         "topics": [],
-        "updated_at": "2026-06-06T21:57:01Z"
+        "updated_at": "2026-06-06T22:04:33Z"
       },
       "repo": {
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -407,7 +407,7 @@
         "owner": "openai",
         "rank": 14,
         "stars_today": 155,
-        "total_stars": 101821,
+        "total_stars": 101823,
         "url": "https://github.com/openai/whisper"
       },
       "score": {
@@ -511,7 +511,7 @@
         "pushed_at": "2026-06-05T22:23:12Z",
         "readme_excerpt": "# Microsoft eXecution Container (MXC) MXC is a **sandboxed code execution system** for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. It provides multiple containment backends \u2014 from OS-native process sandboxes to full VMs \u2014 behind a unified JSON configuration schema and TypeScript SDK. > [!WARNING] > This repository contains an early preview of code published to enable early integration and feedback from developers on Microsoft Execution Containers. The unde",
         "topics": [],
-        "updated_at": "2026-06-06T21:53:50Z"
+        "updated_at": "2026-06-06T22:04:57Z"
       },
       "repo": {
         "description": "Policy-driven, layered isolation and containment",
@@ -522,7 +522,7 @@
         "owner": "microsoft",
         "rank": 16,
         "stars_today": 57,
-        "total_stars": 557,
+        "total_stars": 558,
         "url": "https://github.com/microsoft/mxc"
       },
       "score": {
@@ -679,7 +679,7 @@
         "pushed_at": "2026-05-06T06:49:25Z",
         "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
         "topics": [],
-        "updated_at": "2026-06-06T21:55:46Z"
+        "updated_at": "2026-06-06T22:02:19Z"
       },
       "repo": {
         "description": "Open-Source Frontier Voice AI",
@@ -690,7 +690,7 @@
         "owner": "microsoft",
         "rank": 18,
         "stars_today": 219,
-        "total_stars": 48447,
+        "total_stars": 48448,
         "url": "https://github.com/microsoft/VibeVoice"
       },
       "score": {
@@ -732,7 +732,7 @@
           "language",
           "programming-language"
         ],
-        "updated_at": "2026-06-06T21:10:11Z"
+        "updated_at": "2026-06-06T22:04:48Z"
       },
       "repo": {
         "description": "The Go programming language",
@@ -743,7 +743,7 @@
         "owner": "golang",
         "rank": 10,
         "stars_today": 24,
-        "total_stars": 134497,
+        "total_stars": 134496,
         "url": "https://github.com/golang/go"
       },
       "score": {
@@ -790,7 +790,7 @@
         "owner": "sponsors",
         "rank": 12,
         "stars_today": 1008,
-        "total_stars": 219606,
+        "total_stars": 219608,
         "url": "https://github.com/sponsors/obra"
       },
       "score": {
@@ -882,14 +882,14 @@
       },
       "repo": {
         "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "forks": 10192,
+        "forks": 10193,
         "full_name": "sponsors/santifer",
         "language": "JavaScript",
         "name": "santifer",
         "owner": "sponsors",
         "rank": 13,
         "stars_today": 203,
-        "total_stars": 49262,
+        "total_stars": 49264,
         "url": "https://github.com/sponsors/santifer"
       },
       "score": {
@@ -938,7 +938,7 @@
         "owner": "sponsors",
         "rank": 7,
         "stars_today": 34,
-        "total_stars": 86956,
+        "total_stars": 86958,
         "url": "https://github.com/sponsors/sveltejs"
       },
       "score": {
@@ -986,7 +986,7 @@
         "owner": "sponsors",
         "rank": 15,
         "stars_today": 73,
-        "total_stars": 81162,
+        "total_stars": 81163,
         "url": "https://github.com/sponsors/vitejs"
       },
       "score": {

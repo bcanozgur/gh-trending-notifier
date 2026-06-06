@@ -3,7 +3,7 @@ requires = ["hatchling>=1.25"]
 build-backend = "hatchling.build"
 
 [project]
-name = "gh-trending-notifier"
+name = "gh-trending-digest"
 version = "0.1.0"
 description = "Daily GitHub Trending intelligence email for developers."
 readme = "README.md"
@@ -13,7 +13,7 @@ authors = [{ name = "Berke Can Ozgur" }]
 dependencies = []
 
 [project.scripts]
-gh-trending-notifier = "gh_trending_notifier.cli:main"
+gh-trending-digest = "gh_trending_notifier.cli:main"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

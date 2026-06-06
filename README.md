@@ -1,4 +1,4 @@
-# GitHub Trending Notifier
+# GitHub Trending Digest
 
 Daily developer intelligence from GitHub Trending.
 
@@ -79,7 +79,7 @@ Local Git bootstrap:
 git init -b main
 git add .
 git commit -m "Build GitHub Trending notifier MVP"
-git remote add origin git@github.com:<you>/gh-trending-notifier.git
+git remote add origin git@github.com:<you>/gh-trending-digest.git
 git push -u origin main
 ```
 

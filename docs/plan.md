@@ -112,7 +112,7 @@ Fallback options:
 6. Implement email sender adapters and dry-run mode.
 7. Add GitHub Actions workflow and state commit flow.
 8. Run an end-to-end dry run, then enable real email sending.
-9. Run `gh-trending-notifier doctor` before enabling scheduled sending.
+9. Run `gh-trending-digest doctor` before enabling scheduled sending.
 
 ## Quality Gates
 

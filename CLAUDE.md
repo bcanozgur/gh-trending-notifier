@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**GitHub Trending Notifier** is a Python 3.12 CLI that generates daily intelligence emails from [GitHub Trending](https://github.com/trending). It:
+**GitHub Trending Digest** is a Python 3.12 CLI that generates daily intelligence emails from [GitHub Trending](https://github.com/trending). It:
 
 1. Parses trending repositories from GitHub's daily trending page
 2. Enriches them with GitHub API metadata (topics, license, README excerpt, etc.)
@@ -166,7 +166,7 @@ The workflow commits these files back to git after each run (see `.github/workfl
 git init -b main
 git add .
 git commit -m "Build GitHub Trending notifier MVP"
-git remote add origin git@github.com:<you>/gh-trending-notifier.git
+git remote add origin git@github.com:<you>/gh-trending-digest.git
 git push -u origin main
 ```
 
@@ -224,8 +224,8 @@ Run `python -m gh_trending_notifier.cli doctor` to validate:
 
 ## Building & Distribution
 
-- **Package name**: `gh-trending-notifier`
-- **Entry point**: `gh-trending-notifier` CLI command (via pyproject.toml `[project.scripts]`)
+- **Package name**: `gh-trending-digest`
+- **Entry point**: `gh-trending-digest` CLI command (via pyproject.toml `[project.scripts]`)
 - **Build**: `hatchling` (requires `hatchling>=1.25`)
 - **Python**: 3.12+ (strict)
 

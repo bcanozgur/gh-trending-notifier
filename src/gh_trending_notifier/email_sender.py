@@ -15,7 +15,7 @@ from gh_trending_notifier.models import Newsletter
 # Some provider APIs (e.g. Resend) sit behind Cloudflare, which rejects the
 # default urllib User-Agent ("Python-urllib/x.y") with a 403 / error code 1010.
 # Send an explicit User-Agent so the request is not blocked.
-USER_AGENT = "gh-trending-notifier/0.1 (+https://github.com/bcanozgur/gh-trending-notifier)"
+USER_AGENT = "gh-trending-digest/0.1 (+https://github.com/bcanozgur/gh-trending-digest)"
 
 
 class EmailError(RuntimeError):

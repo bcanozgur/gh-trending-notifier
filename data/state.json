@@ -7,7 +7,7 @@
       "last_score": 77.2,
       "last_seen": "2026-06-07",
       "last_stars_today": 613,
-      "last_total_stars": 33161
+      "last_total_stars": 33163
     },
     "MemPalace/mempalace": {
       "first_seen": "2026-06-07",
@@ -15,7 +15,7 @@
       "last_score": 72.09,
       "last_seen": "2026-06-07",
       "last_stars_today": 441,
-      "last_total_stars": 54235
+      "last_total_stars": 54238
     },
     "PaddlePaddle/PaddleOCR": {
       "first_seen": "2026-06-07",
@@ -23,7 +23,7 @@
       "last_score": 65.64,
       "last_seen": "2026-06-07",
       "last_stars_today": 449,
-      "last_total_stars": 80926
+      "last_total_stars": 80927
     },
     "Panniantong/Agent-Reach": {
       "first_seen": "2026-06-07",
@@ -31,7 +31,7 @@
       "last_score": 76.36,
       "last_seen": "2026-06-07",
       "last_stars_today": 700,
-      "last_total_stars": 22250
+      "last_total_stars": 22253
     },
     "aquasecurity/trivy": {
       "first_seen": "2026-06-07",
@@ -39,7 +39,7 @@
       "last_score": 58.16,
       "last_seen": "2026-06-07",
       "last_stars_today": 159,
-      "last_total_stars": 35989
+      "last_total_stars": 35990
     },
     "golang/go": {
       "first_seen": "2026-06-07",
@@ -55,7 +55,7 @@
       "last_score": 53.08,
       "last_seen": "2026-06-07",
       "last_stars_today": 783,
-      "last_total_stars": 26562
+      "last_total_stars": 26565
     },
     "microsoft/VibeVoice": {
       "first_seen": "2026-06-07",
@@ -63,7 +63,7 @@
       "last_score": 51.08,
       "last_seen": "2026-06-07",
       "last_stars_today": 219,
-      "last_total_stars": 48444
+      "last_total_stars": 48446
     },
     "microsoft/mxc": {
       "first_seen": "2026-06-07",
@@ -71,7 +71,7 @@
       "last_score": 56.32,
       "last_seen": "2026-06-07",
       "last_stars_today": 57,
-      "last_total_stars": 555
+      "last_total_stars": 557
     },
     "mvanhorn/last30days-skill": {
       "first_seen": "2026-06-07",
@@ -79,7 +79,7 @@
       "last_score": 66.82,
       "last_seen": "2026-06-07",
       "last_stars_today": 441,
-      "last_total_stars": 28720
+      "last_total_stars": 28723
     },
     "nginx/nginx": {
       "first_seen": "2026-06-07",
@@ -87,7 +87,7 @@
       "last_score": 54.5,
       "last_seen": "2026-06-07",
       "last_stars_today": 37,
-      "last_total_stars": 30669
+      "last_total_stars": 30670
     },
     "openai/plugins": {
       "first_seen": "2026-06-07",
@@ -95,7 +95,7 @@
       "last_score": 66.46,
       "last_seen": "2026-06-07",
       "last_stars_today": 215,
-      "last_total_stars": 1743
+      "last_total_stars": 1745
     },
     "openai/whisper": {
       "first_seen": "2026-06-07",
@@ -103,7 +103,7 @@
       "last_score": 65.36,
       "last_seen": "2026-06-07",
       "last_stars_today": 155,
-      "last_total_stars": 101820
+      "last_total_stars": 101822
     },
     "sponsors/danielmiessler": {
       "first_seen": "2026-06-07",
@@ -119,7 +119,7 @@
       "last_score": 40.81,
       "last_seen": "2026-06-07",
       "last_stars_today": 1008,
-      "last_total_stars": 219600
+      "last_total_stars": 219603
     },
     "sponsors/santifer": {
       "first_seen": "2026-06-07",
@@ -127,7 +127,7 @@
       "last_score": 32.01,
       "last_seen": "2026-06-07",
       "last_stars_today": 203,
-      "last_total_stars": 49252
+      "last_total_stars": 49258
     },
     "sponsors/sveltejs": {
       "first_seen": "2026-06-07",
@@ -135,7 +135,7 @@
       "last_score": 17.45,
       "last_seen": "2026-06-07",
       "last_stars_today": 34,
-      "last_total_stars": 86955
+      "last_total_stars": 86956
     },
     "sponsors/vitejs": {
       "first_seen": "2026-06-07",
@@ -143,7 +143,7 @@
       "last_score": 16.29,
       "last_seen": "2026-06-07",
       "last_stars_today": 73,
-      "last_total_stars": 81160
+      "last_total_stars": 81162
     }
   }
 }

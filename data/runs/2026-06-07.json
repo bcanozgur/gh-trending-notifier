@@ -40,7 +40,7 @@
           "ts",
           "typescript"
         ],
-        "updated_at": "2026-06-06T21:43:59Z"
+        "updated_at": "2026-06-06T21:53:34Z"
       },
       "repo": {
         "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
@@ -51,7 +51,7 @@
         "owner": "CopilotKit",
         "rank": 2,
         "stars_today": 613,
-        "total_stars": 33161,
+        "total_stars": 33163,
         "url": "https://github.com/CopilotKit/CopilotKit"
       },
       "score": {
@@ -107,18 +107,18 @@
           "xiaohongshu",
           "youtube-transcript"
         ],
-        "updated_at": "2026-06-06T21:45:24Z"
+        "updated_at": "2026-06-06T21:51:30Z"
       },
       "repo": {
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
-        "forks": 1901,
+        "forks": 1902,
         "full_name": "Panniantong/Agent-Reach",
         "language": "Python",
         "name": "Agent-Reach",
         "owner": "Panniantong",
         "rank": 6,
         "stars_today": 700,
-        "total_stars": 22250,
+        "total_stars": 22253,
         "url": "https://github.com/Panniantong/Agent-Reach"
       },
       "score": {
@@ -164,18 +164,18 @@
           "memory",
           "python"
         ],
-        "updated_at": "2026-06-06T21:45:46Z"
+        "updated_at": "2026-06-06T21:53:42Z"
       },
       "repo": {
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
-        "forks": 7103,
+        "forks": 7104,
         "full_name": "MemPalace/mempalace",
         "language": "Python",
         "name": "mempalace",
         "owner": "MemPalace",
         "rank": 3,
         "stars_today": 441,
-        "total_stars": 54235,
+        "total_stars": 54238,
         "url": "https://github.com/MemPalace/mempalace"
       },
       "score": {
@@ -235,18 +235,18 @@
           "web-search",
           "youtube"
         ],
-        "updated_at": "2026-06-06T21:45:31Z"
+        "updated_at": "2026-06-06T21:51:06Z"
       },
       "repo": {
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "forks": 2432,
+        "forks": 2433,
         "full_name": "mvanhorn/last30days-skill",
         "language": "Python",
         "name": "last30days-skill",
         "owner": "mvanhorn",
         "rank": 1,
         "stars_today": 441,
-        "total_stars": 28720,
+        "total_stars": 28723,
         "url": "https://github.com/mvanhorn/last30days-skill"
       },
       "score": {
@@ -285,7 +285,7 @@
         "pushed_at": "2026-06-06T16:15:23Z",
         "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. Highlighted richer examples in this repo include: - `plugins/figma` for `use_figma`, Code to Canvas, Code Connect, and design system rules - `plugins/notion",
         "topics": [],
-        "updated_at": "2026-06-06T21:45:39Z"
+        "updated_at": "2026-06-06T21:50:45Z"
       },
       "repo": {
         "description": "OpenAI Plugins",
@@ -296,7 +296,7 @@
         "owner": "openai",
         "rank": 5,
         "stars_today": 215,
-        "total_stars": 1743,
+        "total_stars": 1745,
         "url": "https://github.com/openai/plugins"
       },
       "score": {
@@ -347,7 +347,7 @@
           "pp-structure",
           "rag"
         ],
-        "updated_at": "2026-06-06T21:45:22Z"
+        "updated_at": "2026-06-06T21:51:49Z"
       },
       "repo": {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
@@ -358,7 +358,7 @@
         "owner": "PaddlePaddle",
         "rank": 17,
         "stars_today": 449,
-        "total_stars": 80926,
+        "total_stars": 80927,
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
       },
       "score": {
@@ -396,7 +396,7 @@
         "pushed_at": "2026-04-15T16:32:15Z",
         "readme_excerpt": "# Whisper [[Blog]](https://openai.com/blog/whisper) [[Paper]](https://arxiv.org/abs/2212.04356) [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md) [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb) Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and lan",
         "topics": [],
-        "updated_at": "2026-06-06T21:45:17Z"
+        "updated_at": "2026-06-06T21:51:41Z"
       },
       "repo": {
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -407,7 +407,7 @@
         "owner": "openai",
         "rank": 14,
         "stars_today": 155,
-        "total_stars": 101820,
+        "total_stars": 101822,
         "url": "https://github.com/openai/whisper"
       },
       "score": {
@@ -461,7 +461,7 @@
           "vulnerability-detection",
           "vulnerability-scanners"
         ],
-        "updated_at": "2026-06-06T21:45:02Z"
+        "updated_at": "2026-06-06T21:47:44Z"
       },
       "repo": {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
@@ -472,7 +472,7 @@
         "owner": "aquasecurity",
         "rank": 9,
         "stars_today": 159,
-        "total_stars": 35989,
+        "total_stars": 35990,
         "url": "https://github.com/aquasecurity/trivy"
       },
       "score": {
@@ -511,7 +511,7 @@
         "pushed_at": "2026-06-05T22:23:12Z",
         "readme_excerpt": "# Microsoft eXecution Container (MXC) MXC is a **sandboxed code execution system** for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. It provides multiple containment backends \u2014 from OS-native process sandboxes to full VMs \u2014 behind a unified JSON configuration schema and TypeScript SDK. > [!WARNING] > This repository contains an early preview of code published to enable early integration and feedback from developers on Microsoft Execution Containers. The unde",
         "topics": [],
-        "updated_at": "2026-06-06T21:44:51Z"
+        "updated_at": "2026-06-06T21:53:50Z"
       },
       "repo": {
         "description": "Policy-driven, layered isolation and containment",
@@ -522,7 +522,7 @@
         "owner": "microsoft",
         "rank": 16,
         "stars_today": 57,
-        "total_stars": 555,
+        "total_stars": 557,
         "url": "https://github.com/microsoft/mxc"
       },
       "score": {
@@ -577,7 +577,7 @@
           "udp-proxy-server",
           "web-server"
         ],
-        "updated_at": "2026-06-06T21:45:31Z"
+        "updated_at": "2026-06-06T21:50:42Z"
       },
       "repo": {
         "description": "The official NGINX Open Source repository.",
@@ -588,7 +588,7 @@
         "owner": "nginx",
         "rank": 8,
         "stars_today": 37,
-        "total_stars": 30669,
+        "total_stars": 30670,
         "url": "https://github.com/nginx/nginx"
       },
       "score": {
@@ -632,7 +632,7 @@
           "notes-app",
           "self-learning"
         ],
-        "updated_at": "2026-06-06T21:45:21Z"
+        "updated_at": "2026-06-06T21:53:57Z"
       },
       "repo": {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
@@ -643,7 +643,7 @@
         "owner": "lfnovo",
         "rank": 11,
         "stars_today": 783,
-        "total_stars": 26562,
+        "total_stars": 26565,
         "url": "https://github.com/lfnovo/open-notebook"
       },
       "score": {
@@ -679,7 +679,7 @@
         "pushed_at": "2026-05-06T06:49:25Z",
         "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
         "topics": [],
-        "updated_at": "2026-06-06T21:42:36Z"
+        "updated_at": "2026-06-06T21:52:53Z"
       },
       "repo": {
         "description": "Open-Source Frontier Voice AI",
@@ -690,7 +690,7 @@
         "owner": "microsoft",
         "rank": 18,
         "stars_today": 219,
-        "total_stars": 48444,
+        "total_stars": 48446,
         "url": "https://github.com/microsoft/VibeVoice"
       },
       "score": {
@@ -783,14 +783,14 @@
       },
       "repo": {
         "description": "An agentic skills framework & software development methodology that works.",
-        "forks": 19539,
+        "forks": 19540,
         "full_name": "sponsors/obra",
         "language": "Shell",
         "name": "obra",
         "owner": "sponsors",
         "rank": 12,
         "stars_today": 1008,
-        "total_stars": 219600,
+        "total_stars": 219603,
         "url": "https://github.com/sponsors/obra"
       },
       "score": {
@@ -889,7 +889,7 @@
         "owner": "sponsors",
         "rank": 13,
         "stars_today": 203,
-        "total_stars": 49252,
+        "total_stars": 49258,
         "url": "https://github.com/sponsors/santifer"
       },
       "score": {
@@ -938,7 +938,7 @@
         "owner": "sponsors",
         "rank": 7,
         "stars_today": 34,
-        "total_stars": 86955,
+        "total_stars": 86956,
         "url": "https://github.com/sponsors/sveltejs"
       },
       "score": {
@@ -986,7 +986,7 @@
         "owner": "sponsors",
         "rank": 15,
         "stars_today": 73,
-        "total_stars": 81160,
+        "total_stars": 81162,
         "url": "https://github.com/sponsors/vitejs"
       },
       "score": {

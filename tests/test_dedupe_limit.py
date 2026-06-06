@@ -101,6 +101,13 @@ class DedupeLimitTests(TestCase):
             payload = json.loads(run_path(root, "2026-06-07").read_text(encoding="utf-8"))
             self.assertEqual(len(payload["ranked"]), 10)
             self.assertEqual(len(payload["reviewed"]), 12)
+            # The large rendered blobs live only in the preview files, not the
+            # run archive, so they are not stored twice.
+            self.assertNotIn("html", payload)
+            self.assertNotIn("text", payload)
+            html_preview = root / "data" / "previews" / "2026-06-07.html"
+            self.assertTrue(html_preview.exists())
+            self.assertGreater(len(html_preview.read_text(encoding="utf-8")), 0)
 
     def test_zero_repo_limit_is_floored_to_one(self) -> None:
         old = os.environ.get("NEWSLETTER_MAX_REPOS")

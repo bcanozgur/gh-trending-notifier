@@ -52,6 +52,10 @@ def record_run(
 ) -> Path:
     path = run_path(root, newsletter.date)
     payload = newsletter.to_dict()
+    # The rendered HTML/text are written to the preview files below, so drop them
+    # from the run archive to avoid storing the same large blobs twice per day.
+    payload.pop("html", None)
+    payload.pop("text", None)
     # `newsletter.ranked` only holds the repos actually featured (top N after
     # dedupe). Persist the complete reviewed set so the archive keeps the full
     # audit trail of every repo and score considered for this run.

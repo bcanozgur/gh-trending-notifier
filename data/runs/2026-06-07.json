@@ -40,7 +40,7 @@
           "ts",
           "typescript"
         ],
-        "updated_at": "2026-06-06T21:53:34Z"
+        "updated_at": "2026-06-06T21:55:28Z"
       },
       "repo": {
         "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
@@ -51,7 +51,7 @@
         "owner": "CopilotKit",
         "rank": 2,
         "stars_today": 613,
-        "total_stars": 33163,
+        "total_stars": 33164,
         "url": "https://github.com/CopilotKit/CopilotKit"
       },
       "score": {
@@ -107,7 +107,7 @@
           "xiaohongshu",
           "youtube-transcript"
         ],
-        "updated_at": "2026-06-06T21:51:30Z"
+        "updated_at": "2026-06-06T21:59:42Z"
       },
       "repo": {
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
@@ -118,7 +118,7 @@
         "owner": "Panniantong",
         "rank": 6,
         "stars_today": 700,
-        "total_stars": 22253,
+        "total_stars": 22255,
         "url": "https://github.com/Panniantong/Agent-Reach"
       },
       "score": {
@@ -164,7 +164,7 @@
           "memory",
           "python"
         ],
-        "updated_at": "2026-06-06T21:53:42Z"
+        "updated_at": "2026-06-06T21:58:35Z"
       },
       "repo": {
         "description": "The best-benchmarked open-source AI memory system. And it's free.",
@@ -175,7 +175,7 @@
         "owner": "MemPalace",
         "rank": 3,
         "stars_today": 441,
-        "total_stars": 54238,
+        "total_stars": 54240,
         "url": "https://github.com/MemPalace/mempalace"
       },
       "score": {
@@ -235,7 +235,7 @@
           "web-search",
           "youtube"
         ],
-        "updated_at": "2026-06-06T21:51:06Z"
+        "updated_at": "2026-06-06T22:00:02Z"
       },
       "repo": {
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
@@ -246,7 +246,7 @@
         "owner": "mvanhorn",
         "rank": 1,
         "stars_today": 441,
-        "total_stars": 28723,
+        "total_stars": 28727,
         "url": "https://github.com/mvanhorn/last30days-skill"
       },
       "score": {
@@ -347,7 +347,7 @@
           "pp-structure",
           "rag"
         ],
-        "updated_at": "2026-06-06T21:51:49Z"
+        "updated_at": "2026-06-06T21:59:52Z"
       },
       "repo": {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
@@ -358,7 +358,7 @@
         "owner": "PaddlePaddle",
         "rank": 17,
         "stars_today": 449,
-        "total_stars": 80927,
+        "total_stars": 80929,
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
       },
       "score": {
@@ -396,7 +396,7 @@
         "pushed_at": "2026-04-15T16:32:15Z",
         "readme_excerpt": "# Whisper [[Blog]](https://openai.com/blog/whisper) [[Paper]](https://arxiv.org/abs/2212.04356) [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md) [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb) Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and lan",
         "topics": [],
-        "updated_at": "2026-06-06T21:51:41Z"
+        "updated_at": "2026-06-06T21:57:01Z"
       },
       "repo": {
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -407,7 +407,7 @@
         "owner": "openai",
         "rank": 14,
         "stars_today": 155,
-        "total_stars": 101822,
+        "total_stars": 101821,
         "url": "https://github.com/openai/whisper"
       },
       "score": {
@@ -465,7 +465,7 @@
       },
       "repo": {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "forks": 453,
+        "forks": 454,
         "full_name": "aquasecurity/trivy",
         "language": "Go",
         "name": "trivy",
@@ -577,18 +577,18 @@
           "udp-proxy-server",
           "web-server"
         ],
-        "updated_at": "2026-06-06T21:50:42Z"
+        "updated_at": "2026-06-06T21:54:26Z"
       },
       "repo": {
         "description": "The official NGINX Open Source repository.",
-        "forks": 7955,
+        "forks": 7956,
         "full_name": "nginx/nginx",
         "language": "C",
         "name": "nginx",
         "owner": "nginx",
         "rank": 8,
         "stars_today": 37,
-        "total_stars": 30670,
+        "total_stars": 30671,
         "url": "https://github.com/nginx/nginx"
       },
       "score": {
@@ -632,7 +632,7 @@
           "notes-app",
           "self-learning"
         ],
-        "updated_at": "2026-06-06T21:53:57Z"
+        "updated_at": "2026-06-06T21:57:12Z"
       },
       "repo": {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
@@ -643,7 +643,7 @@
         "owner": "lfnovo",
         "rank": 11,
         "stars_today": 783,
-        "total_stars": 26565,
+        "total_stars": 26566,
         "url": "https://github.com/lfnovo/open-notebook"
       },
       "score": {
@@ -679,7 +679,7 @@
         "pushed_at": "2026-05-06T06:49:25Z",
         "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
         "topics": [],
-        "updated_at": "2026-06-06T21:52:53Z"
+        "updated_at": "2026-06-06T21:55:46Z"
       },
       "repo": {
         "description": "Open-Source Frontier Voice AI",
@@ -690,7 +690,7 @@
         "owner": "microsoft",
         "rank": 18,
         "stars_today": 219,
-        "total_stars": 48446,
+        "total_stars": 48447,
         "url": "https://github.com/microsoft/VibeVoice"
       },
       "score": {
@@ -790,7 +790,7 @@
         "owner": "sponsors",
         "rank": 12,
         "stars_today": 1008,
-        "total_stars": 219603,
+        "total_stars": 219606,
         "url": "https://github.com/sponsors/obra"
       },
       "score": {
@@ -833,14 +833,14 @@
       },
       "repo": {
         "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-        "forks": 2120,
+        "forks": 2121,
         "full_name": "sponsors/danielmiessler",
         "language": "TypeScript",
         "name": "danielmiessler",
         "owner": "sponsors",
         "rank": 4,
         "stars_today": 63,
-        "total_stars": 14922,
+        "total_stars": 14925,
         "url": "https://github.com/sponsors/danielmiessler"
       },
       "score": {
@@ -889,7 +889,7 @@
         "owner": "sponsors",
         "rank": 13,
         "stars_today": 203,
-        "total_stars": 49258,
+        "total_stars": 49262,
         "url": "https://github.com/sponsors/santifer"
       },
       "score": {
@@ -931,7 +931,7 @@
       },
       "repo": {
         "description": "web development for the rest of us",
-        "forks": 4936,
+        "forks": 4937,
         "full_name": "sponsors/sveltejs",
         "language": "JavaScript",
         "name": "sveltejs",

@@ -30,13 +30,5 @@ Full reviewed list
 - aquasecurity/trivy: 58.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 159 stars today; score 58.2/100.
 - microsoft/mxc: 56.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 57 stars today; score 56.3/100.
 - nginx/nginx: 54.5/100 [AI Workflow, Try Today] AI Workflow, Try Today: C project with 37 stars today; score 54.5/100.
-- lfnovo/open-notebook: 53.1/100 [Try Today] Try Today: TypeScript project with 783 stars today; score 53.1/100.
-- microsoft/VibeVoice: 51.1/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 219 stars today; score 51.1/100.
-- golang/go: 40.9/100 [Try Today] Try Today: Go project with 24 stars today; score 40.9/100.
-- sponsors/obra: 40.8/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 1008 stars today; score 40.8/100.
-- sponsors/danielmiessler: 32.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 63 stars today; score 32.1/100.
-- sponsors/santifer: 32.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 203 stars today; score 32.0/100.
-- sponsors/sveltejs: 17.4/100 [Watch, Hype Risk] Watch, Hype Risk: JavaScript project with 34 stars today; score 17.4/100.
-- sponsors/vitejs: 16.3/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 73 stars today; score 16.3/100.
 
 Generated for 2026-06-07 from GitHub Trending daily.

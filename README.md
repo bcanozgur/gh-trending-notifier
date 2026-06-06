@@ -42,6 +42,12 @@ Live dry-run from GitHub Trending:
 PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=src GH_TOKEN=... python -m gh_trending_notifier.cli run
 ```
 
+Use a specific local date basis:
+
+```bash
+PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=src APP_TIMEZONE=Europe/Istanbul python -m gh_trending_notifier.cli run
+```
+
 Check deployment readiness:
 
 ```bash
@@ -79,6 +85,8 @@ git push -u origin main
 
 Common settings:
 
+- `APP_TIMEZONE` repository variable: defaults to `Europe/Istanbul` in the
+  included workflow.
 - `EMAIL_PROVIDER` repository variable: `smtp`, `resend`, or `brevo`.
 - `MAIL_FROM` secret.
 - `MAIL_TO` secret with comma-separated recipients.

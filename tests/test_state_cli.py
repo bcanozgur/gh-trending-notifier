@@ -1,10 +1,11 @@
 import json
 import os
 import tempfile
+from datetime import UTC, datetime
 from pathlib import Path
 from unittest import TestCase
 
-from gh_trending_notifier.cli import main
+from gh_trending_notifier.cli import default_run_date, main
 from gh_trending_notifier.email_sender import EmailError
 from gh_trending_notifier.state import has_sent, record_sent
 
@@ -88,3 +89,39 @@ class StateCliTests(TestCase):
             exit_code = main(["doctor", "--repo-root", str(root)])
 
             self.assertEqual(exit_code, 1)
+
+    def test_default_run_date_uses_configured_timezone(self) -> None:
+        now = datetime(2026, 6, 6, 22, 30, tzinfo=UTC)
+
+        self.assertEqual(default_run_date("UTC", now=now), "2026-06-06")
+        self.assertEqual(default_run_date("Europe/Istanbul", now=now), "2026-06-07")
+
+    def test_cli_writes_github_step_summary_when_available(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            summary = root / "summary.md"
+            old_summary = os.environ.get("GITHUB_STEP_SUMMARY")
+            os.environ["GITHUB_STEP_SUMMARY"] = str(summary)
+            try:
+                exit_code = main(
+                    [
+                        "run",
+                        "--date",
+                        "2026-06-07",
+                        "--repo-root",
+                        str(root),
+                        "--html-file",
+                        "tests/fixtures/trending_daily.html",
+                        "--skip-enrichment",
+                    ]
+                )
+            finally:
+                if old_summary is None:
+                    os.environ.pop("GITHUB_STEP_SUMMARY", None)
+                else:
+                    os.environ["GITHUB_STEP_SUMMARY"] = old_summary
+
+            self.assertEqual(exit_code, 0)
+            content = summary.read_text(encoding="utf-8")
+            self.assertIn("GitHub Trending Newsletter", content)
+            self.assertIn("openai/whisper", content)

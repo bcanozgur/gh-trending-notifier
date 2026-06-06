@@ -23,6 +23,7 @@ jobs:
     env:
       PYTHONPATH: src
       PYTHONDONTWRITEBYTECODE: "1"
+      APP_TIMEZONE: Europe/Istanbul
       EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'smtp' }}
       MAIL_FROM: ${{ secrets.MAIL_FROM }}
       MAIL_TO: ${{ secrets.MAIL_TO }}

@@ -5,6 +5,7 @@ import os
 import subprocess
 from datetime import UTC, datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 from gh_trending_notifier.email_sender import parse_recipients, send_newsletter
 from gh_trending_notifier.github_client import GitHubClient
@@ -26,7 +27,16 @@ def main(argv: list[str] | None = None) -> int:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     run_parser = subparsers.add_parser("run", help="Fetch, score, render, and optionally send.")
-    run_parser.add_argument("--date", default=None, help="ISO date, default: today in UTC.")
+    run_parser.add_argument(
+        "--date",
+        default=None,
+        help="ISO date, default: today in APP_TIMEZONE or UTC.",
+    )
+    run_parser.add_argument(
+        "--timezone",
+        default=os.getenv("APP_TIMEZONE", "UTC"),
+        help="Timezone used when --date is omitted.",
+    )
     run_parser.add_argument("--repo-root", default=".", help="Repository root for data files.")
     run_parser.add_argument("--html-file", default=None, help="Use a local Trending HTML file.")
     run_parser.add_argument("--skip-enrichment", action="store_true", help="Skip GitHub API enrichment.")
@@ -51,7 +61,7 @@ def main(argv: list[str] | None = None) -> int:
 
 def run_command(args: argparse.Namespace) -> int:
     repo_root = Path(args.repo_root).resolve()
-    date = args.date or datetime.now(UTC).date().isoformat()
+    date = args.date or default_run_date(args.timezone)
 
     if args.send and has_sent(repo_root, date):
         print(f"Newsletter for {date} already sent; skipping.")
@@ -75,6 +85,7 @@ def run_command(args: argparse.Namespace) -> int:
     print(f"Parsed {len(repos)} Trending repositories from {TRENDING_URL}.")
     print(f"Wrote run archive: {run_file}")
     print(f"Subject: {newsletter.subject}")
+    write_github_step_summary(newsletter, run_file)
 
     if args.send:
         recipients = parse_recipients(os.getenv("MAIL_TO"))
@@ -99,6 +110,37 @@ def _load_trending_document(path: str | None) -> str:
     if path:
         return Path(path).read_text(encoding="utf-8")
     return fetch_trending_html()
+
+
+def default_run_date(timezone_name: str, now: datetime | None = None) -> str:
+    try:
+        timezone = ZoneInfo(timezone_name)
+    except ZoneInfoNotFoundError as exc:
+        raise SystemExit(f"Unknown timezone: {timezone_name}") from exc
+    reference = now or datetime.now(timezone)
+    if reference.tzinfo is None:
+        reference = reference.replace(tzinfo=UTC)
+    return reference.astimezone(timezone).date().isoformat()
+
+
+def write_github_step_summary(newsletter, run_file: Path) -> None:
+    summary_path = os.getenv("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+    top_rows = "\n".join(
+        f"- {item.repo.full_name}: {item.score.total:.1f}/100 ({', '.join(item.tags)})"
+        for item in newsletter.ranked[:5]
+    )
+    content = (
+        "## GitHub Trending Newsletter\n\n"
+        f"- Date: `{newsletter.date}`\n"
+        f"- Subject: `{newsletter.subject}`\n"
+        f"- Archive: `{run_file}`\n\n"
+        "### Top picks\n"
+        f"{top_rows}\n"
+    )
+    with Path(summary_path).open("a", encoding="utf-8") as handle:
+        handle.write(content)
 
 
 def doctor_command(args: argparse.Namespace) -> int:

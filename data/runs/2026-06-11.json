@@ -1,0 +1,1515 @@
+{
+  "date": "2026-06-11",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-19T19:33:24Z",
+        "default_branch": "main",
+        "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+        "fork": false,
+        "full_name": "kenn-io/agentsview",
+        "homepage": "https://agentsview.io",
+        "latest_release": "v0.32.1",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "Go",
+        "pushed_at": "2026-06-11T05:44:16Z",
+        "readme_excerpt": "# agentsview Browse, search, and track costs across all your AI coding agents. One binary, no accounts, everything local. <p align=\"center\"> <img src=\"https://agentsview.io/screenshots/dashboard.png\" alt=\"Analytics dashboard\" width=\"720\"> </p> ## Install ```bash # macOS / Linux curl -fsSL https://agentsview.io/install.sh | bash # Windows powershell -ExecutionPolicy ByPass -c \"irm https://agentsview.io/install.ps1 | iex\" ``` Or download the **desktop app** (macOS / Windows) from [GitHub Releases]",
+        "topics": [],
+        "updated_at": "2026-06-11T11:51:28Z"
+      },
+      "repo": {
+        "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+        "forks": 166,
+        "full_name": "kenn-io/agentsview",
+        "language": "Go",
+        "name": "agentsview",
+        "owner": "kenn-io",
+        "rank": 14,
+        "stars_today": 98,
+        "total_stars": 1428,
+        "url": "https://github.com/kenn-io/agentsview"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 98 stars today; score 78.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-21T00:28:43Z",
+        "default_branch": "main",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "fork": false,
+        "full_name": "NVIDIA/SkillSpector",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-10T19:18:13Z",
+        "readme_excerpt": "# SkillSpector **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) ## Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute with implicit trust and mi",
+        "topics": [],
+        "updated_at": "2026-06-11T11:54:29Z"
+      },
+      "repo": {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "forks": 193,
+        "full_name": "NVIDIA/SkillSpector",
+        "language": "Python",
+        "name": "SkillSpector",
+        "owner": "NVIDIA",
+        "rank": 5,
+        "stars_today": 308,
+        "total_stars": 2276,
+        "url": "https://github.com/NVIDIA/SkillSpector"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.63,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.17
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 308 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-25T16:00:10Z",
+        "default_branch": "main",
+        "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "fork": false,
+        "full_name": "hexo-ai/sia",
+        "homepage": "https://hexolabs.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-06T18:44:48Z",
+        "readme_excerpt": "# SIA (Self-Improving AI) [![arXiv](https://img.shields.io/badge/arXiv-2605.27276-b31b1b.svg)](https://arxiv.org/abs/2605.27276) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/) [![PyPI version](https://img.shields.io/pypi/v/sia-agent.svg)](https://pypi.org/project/sia-agent/) Official implementation of [**SIA: Self Improving AI with H",
+        "topics": [],
+        "updated_at": "2026-06-11T11:54:09Z"
+      },
+      "repo": {
+        "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "forks": 144,
+        "full_name": "hexo-ai/sia",
+        "language": "Python",
+        "name": "sia",
+        "owner": "hexo-ai",
+        "rank": 17,
+        "stars_today": 177,
+        "total_stars": 1021,
+        "url": "https://github.com/hexo-ai/sia"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 177 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-05T11:37:18Z",
+        "default_branch": "main",
+        "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+        "fork": false,
+        "full_name": "alchaincyf/zhangxuefeng-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": null,
+        "pushed_at": "2026-05-28T00:10:21Z",
+        "readme_excerpt": "<div align=\"center\"> # \u5f20\u96ea\u5cf0.skill <p align=\"center\"> <img src=\"assets/hero.gif\" alt=\"zhangxuefeng-skill Hero Animation\" /> <br/> <sub>\u52a8\u753b\u7531 <a href=\"https://github.com/alchaincyf/huashu-design\">huashu-design</a> skill \u5236\u4f5c</sub> </p> > *\u300c\u793e\u4f1a\u5c31\u662f\u4e00\u4e2a\u5927\u7b5b\u5b50\uff0c\u7528\u5b66\u5386\u7b5b\u5b69\u5b50\uff0c\u7528\u623f\u5b50\u7b5b\u7236\u6bcd\uff0c\u7528\u5de5\u4f5c\u7b5b\u5bb6\u5ead\u3002\u300d* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io) [![skills.sh](https://img.shields.io/badge/skills.s",
+        "topics": [],
+        "updated_at": "2026-06-11T11:52:07Z"
+      },
+      "repo": {
+        "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+        "forks": 2410,
+        "full_name": "alchaincyf/zhangxuefeng-skill",
+        "language": null,
+        "name": "zhangxuefeng-skill",
+        "owner": "alchaincyf",
+        "rank": 15,
+        "stars_today": 94,
+        "total_stars": 7854,
+        "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.07,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 94 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-06-15T06:50:02Z",
+        "default_branch": "master",
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "fork": false,
+        "full_name": "mattermost/mattermost",
+        "homepage": "https://mattermost.com",
+        "latest_release": "v11.7.2",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 915,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-11T11:48:03Z",
+        "readme_excerpt": "# [![Mattermost logo](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mattermost.com) [Mattermost](https://mattermost.com) is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A ne",
+        "topics": [
+          "collaboration",
+          "golang",
+          "hacktoberfest",
+          "mattermost",
+          "monorepo",
+          "react",
+          "react-native"
+        ],
+        "updated_at": "2026-06-11T11:56:11Z"
+      },
+      "repo": {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "forks": 8689,
+        "full_name": "mattermost/mattermost",
+        "language": "TypeScript",
+        "name": "mattermost",
+        "owner": "mattermost",
+        "rank": 18,
+        "stars_today": 26,
+        "total_stars": 37114,
+        "url": "https://github.com/mattermost/mattermost"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 58.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 26 stars today; score 58.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-04-27T14:07:58Z",
+        "default_branch": "master",
+        "description": "Fast, secure, efficient backup program",
+        "fork": false,
+        "full_name": "restic/restic",
+        "homepage": "https://restic.net",
+        "latest_release": "v0.19.0",
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 546,
+        "primary_language": "Go",
+        "pushed_at": "2026-06-10T20:53:09Z",
+        "readme_excerpt": "[![Documentation](https://readthedocs.org/projects/restic/badge/?version=latest)](https://restic.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://github.com/restic/restic/workflows/test/badge.svg)](https://github.com/restic/restic/actions?query=workflow%3Atest) [![Go Report Card](https://goreportcard.com/badge/github.com/restic/restic)](https://goreportcard.com/report/github.com/restic/restic) # Introduction restic is a backup program that is fast, efficient and secure. It suppor",
+        "topics": [
+          "backup",
+          "dedupe",
+          "deduplication",
+          "go",
+          "restic",
+          "secure-by-default"
+        ],
+        "updated_at": "2026-06-11T11:52:03Z"
+      },
+      "repo": {
+        "description": "Fast, secure, efficient backup program",
+        "forks": 1780,
+        "full_name": "restic/restic",
+        "language": "Go",
+        "name": "restic",
+        "owner": "restic",
+        "rank": 10,
+        "stars_today": 33,
+        "total_stars": 34002,
+        "url": "https://github.com/restic/restic"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.54
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 33 stars today; score 51.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-01-14T00:34:25Z",
+        "default_branch": "master",
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "fork": false,
+        "full_name": "bannedbook/fanqiang",
+        "homepage": null,
+        "latest_release": "FQNews-v1.3.8",
+        "license_spdx": null,
+        "open_issues": 327,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-05-30T09:01:37Z",
+        "readme_excerpt": "# \u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51\u3001\u7ffb\u5899\u5de5\u5177\u3001\u7ffb\u5899\u6559\u7a0b\u9879\u76ee\u5e93 * [\u7ffb\u5899\u65b0\u95fb-FQNews-\u5b89\u5353APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2) * [\u5b89\u5353\u7ffb\u5899\u8f6f\u4ef6](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) * [\u5b89\u5353\u7ffb\u5899APP\u6559\u7a0b](https://github.com/bannedbook/fanqiang/tree/master/android) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305 Mac\u7248](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacch",
+        "topics": [
+          "brook",
+          "daze",
+          "fanqiang",
+          "goflyway",
+          "lightsocks",
+          "proxy",
+          "psiphon",
+          "shadowsocks",
+          "ssr",
+          "trojan",
+          "v2ray"
+        ],
+        "updated_at": "2026-06-11T11:54:34Z"
+      },
+      "repo": {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "forks": 7990,
+        "full_name": "bannedbook/fanqiang",
+        "language": "Kotlin",
+        "name": "fanqiang",
+        "owner": "bannedbook",
+        "rank": 19,
+        "stars_today": 342,
+        "total_stars": 46533,
+        "url": "https://github.com/bannedbook/fanqiang"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.14,
+        "technical_quality": 11.2,
+        "total": 44.38
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Kotlin project with 342 stars today; score 44.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 18193,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1434,
+        "total_stars": 110980,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.64,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 43.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1434 stars today; score 43.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chatwoot",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "forks": 7491,
+        "full_name": "sponsors/chatwoot",
+        "language": "Ruby",
+        "name": "chatwoot",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 31,
+        "total_stars": 30126,
+        "url": "https://github.com/sponsors/chatwoot"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.03,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Ruby project with 31 stars today; score 31.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/masterking32",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "forks": 507,
+        "full_name": "sponsors/masterking32",
+        "language": "Go",
+        "name": "masterking32",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 354,
+        "total_stars": 5472,
+        "url": "https://github.com/sponsors/masterking32"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.58,
+        "technical_quality": 3.5,
+        "total": 18.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 354 stars today; score 18.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-19T19:33:24Z",
+        "default_branch": "main",
+        "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+        "fork": false,
+        "full_name": "kenn-io/agentsview",
+        "homepage": "https://agentsview.io",
+        "latest_release": "v0.32.1",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "Go",
+        "pushed_at": "2026-06-11T05:44:16Z",
+        "readme_excerpt": "# agentsview Browse, search, and track costs across all your AI coding agents. One binary, no accounts, everything local. <p align=\"center\"> <img src=\"https://agentsview.io/screenshots/dashboard.png\" alt=\"Analytics dashboard\" width=\"720\"> </p> ## Install ```bash # macOS / Linux curl -fsSL https://agentsview.io/install.sh | bash # Windows powershell -ExecutionPolicy ByPass -c \"irm https://agentsview.io/install.ps1 | iex\" ``` Or download the **desktop app** (macOS / Windows) from [GitHub Releases]",
+        "topics": [],
+        "updated_at": "2026-06-11T11:51:28Z"
+      },
+      "repo": {
+        "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+        "forks": 166,
+        "full_name": "kenn-io/agentsview",
+        "language": "Go",
+        "name": "agentsview",
+        "owner": "kenn-io",
+        "rank": 14,
+        "stars_today": 98,
+        "total_stars": 1428,
+        "url": "https://github.com/kenn-io/agentsview"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 98 stars today; score 78.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-21T00:28:43Z",
+        "default_branch": "main",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "fork": false,
+        "full_name": "NVIDIA/SkillSpector",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-10T19:18:13Z",
+        "readme_excerpt": "# SkillSpector **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) ## Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute with implicit trust and mi",
+        "topics": [],
+        "updated_at": "2026-06-11T11:54:29Z"
+      },
+      "repo": {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "forks": 193,
+        "full_name": "NVIDIA/SkillSpector",
+        "language": "Python",
+        "name": "SkillSpector",
+        "owner": "NVIDIA",
+        "rank": 5,
+        "stars_today": 308,
+        "total_stars": 2276,
+        "url": "https://github.com/NVIDIA/SkillSpector"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.63,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.17
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 308 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.2",
+        "license_spdx": "MIT",
+        "open_issues": 113,
+        "primary_language": "Shell",
+        "pushed_at": "2026-06-11T01:40:56Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. ![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg) ``` DEFINE PLAN BUILD VERIFY REVIEW SHIP \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 Idea \u2502 \u2500\u2500\u2500\u25b6 \u2502 Spec \u2502 \u2500\u2500\u2500\u25b6 \u2502 Code",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "antigravity-ide",
+          "claude-code",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-06-11T11:56:31Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 5852,
+        "full_name": "addyosmani/agent-skills",
+        "language": "Shell",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 2,
+        "stars_today": 821,
+        "total_stars": 53486,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.74,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 821 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-04T15:13:34Z",
+        "default_branch": "master",
+        "description": "open-source healthcare ai",
+        "fork": false,
+        "full_name": "maziyarpanahi/openmed",
+        "homepage": "https://openmed.life/",
+        "latest_release": "v1.5.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 77,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-11T11:06:49Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/brand/openmed-mascot-lockup.png\" alt=\"OpenMed \u2014 local-first healthcare AI\" width=\"400\" /> <h3>Local-first healthcare AI that never leaves the device</h3> <p><b>Turn clinical text into structured insight with one line of code.</b><br/> Entity extraction, PII de-identification, and 1,000+ specialized medical models that run entirely on your own hardware \u2014 from a one-liner in Python to a native Swift app on iPhone, powered by Apple MLX. No cloud. No vendor lock-i",
+        "topics": [
+          "bert",
+          "deepseek",
+          "healthcare",
+          "ios",
+          "llm",
+          "mlx",
+          "ner",
+          "on-device",
+          "on-premise",
+          "pii",
+          "pii-detection",
+          "qwen",
+          "sovereign-ai",
+          "swift",
+          "swift-package",
+          "swiftui"
+        ],
+        "updated_at": "2026-06-11T11:54:18Z"
+      },
+      "repo": {
+        "description": "open-source healthcare ai",
+        "forks": 255,
+        "full_name": "maziyarpanahi/openmed",
+        "language": "Python",
+        "name": "openmed",
+        "owner": "maziyarpanahi",
+        "rank": 3,
+        "stars_today": 527,
+        "total_stars": 2519,
+        "url": "https://github.com/maziyarpanahi/openmed"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 527 stars today; score 71.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-01T23:33:44Z",
+        "default_branch": "main",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "fork": false,
+        "full_name": "phuryn/pm-skills",
+        "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+        "latest_release": "v2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": null,
+        "pushed_at": "2026-06-06T14:12:26Z",
+        "readme_excerpt": "![GitHub stars](https://img.shields.io/github/stars/phuryn/pm-skills) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/CONTRIBUTING.md) [![Companion: pm-skills](https://img.shields.io/badge/companion-pm--brain-blue)](https://github.com/phuryn/pm-brain) # PM Skills Marketpla",
+        "topics": [
+          "agent-skill-repository",
+          "agent-skills",
+          "agentic-skills",
+          "claude-code-marketplace",
+          "claude-code-plugins",
+          "claude-cowork-plugin",
+          "product-management"
+        ],
+        "updated_at": "2026-06-11T11:52:51Z"
+      },
+      "repo": {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "forks": 1673,
+        "full_name": "phuryn/pm-skills",
+        "language": null,
+        "name": "pm-skills",
+        "owner": "phuryn",
+        "rank": 4,
+        "stars_today": 804,
+        "total_stars": 15877,
+        "url": "https://github.com/phuryn/pm-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.36,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 804 stars today; score 68.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-30T21:26:05Z",
+        "default_branch": "main",
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+        "fork": false,
+        "full_name": "apple/container",
+        "homepage": "https://apple.github.io/container/documentation/",
+        "latest_release": "1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 303,
+        "primary_language": "Swift",
+        "pushed_at": "2026-06-09T23:53:23Z",
+        "readme_excerpt": "<h1> <img alt=\"Containerization logo\" src=\"./assets/Containerization-Logo.png\" width=\"70\" valign=\"middle\"> &nbsp;container </h1> `container` is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces [OCI-compatible container images](https://github.com/opencontainers/image-spec), so you can pull and run images from any standard container registry. You can push im",
+        "topics": [],
+        "updated_at": "2026-06-11T11:56:26Z"
+      },
+      "repo": {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "forks": 861,
+        "full_name": "apple/container",
+        "language": "Swift",
+        "name": "container",
+        "owner": "apple",
+        "rank": 1,
+        "stars_today": 1611,
+        "total_stars": 30762,
+        "url": "https://github.com/apple/container"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 65.49
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 1611 stars today; score 65.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-25T16:00:10Z",
+        "default_branch": "main",
+        "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "fork": false,
+        "full_name": "hexo-ai/sia",
+        "homepage": "https://hexolabs.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-06T18:44:48Z",
+        "readme_excerpt": "# SIA (Self-Improving AI) [![arXiv](https://img.shields.io/badge/arXiv-2605.27276-b31b1b.svg)](https://arxiv.org/abs/2605.27276) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/) [![PyPI version](https://img.shields.io/pypi/v/sia-agent.svg)](https://pypi.org/project/sia-agent/) Official implementation of [**SIA: Self Improving AI with H",
+        "topics": [],
+        "updated_at": "2026-06-11T11:54:09Z"
+      },
+      "repo": {
+        "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "forks": 144,
+        "full_name": "hexo-ai/sia",
+        "language": "Python",
+        "name": "sia",
+        "owner": "hexo-ai",
+        "rank": 17,
+        "stars_today": 177,
+        "total_stars": 1021,
+        "url": "https://github.com/hexo-ai/sia"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 177 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-05T11:37:18Z",
+        "default_branch": "main",
+        "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+        "fork": false,
+        "full_name": "alchaincyf/zhangxuefeng-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": null,
+        "pushed_at": "2026-05-28T00:10:21Z",
+        "readme_excerpt": "<div align=\"center\"> # \u5f20\u96ea\u5cf0.skill <p align=\"center\"> <img src=\"assets/hero.gif\" alt=\"zhangxuefeng-skill Hero Animation\" /> <br/> <sub>\u52a8\u753b\u7531 <a href=\"https://github.com/alchaincyf/huashu-design\">huashu-design</a> skill \u5236\u4f5c</sub> </p> > *\u300c\u793e\u4f1a\u5c31\u662f\u4e00\u4e2a\u5927\u7b5b\u5b50\uff0c\u7528\u5b66\u5386\u7b5b\u5b69\u5b50\uff0c\u7528\u623f\u5b50\u7b5b\u7236\u6bcd\uff0c\u7528\u5de5\u4f5c\u7b5b\u5bb6\u5ead\u3002\u300d* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io) [![skills.sh](https://img.shields.io/badge/skills.s",
+        "topics": [],
+        "updated_at": "2026-06-11T11:52:07Z"
+      },
+      "repo": {
+        "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+        "forks": 2410,
+        "full_name": "alchaincyf/zhangxuefeng-skill",
+        "language": null,
+        "name": "zhangxuefeng-skill",
+        "owner": "alchaincyf",
+        "rank": 15,
+        "stars_today": 94,
+        "total_stars": 7854,
+        "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.07,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 94 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-06-15T06:50:02Z",
+        "default_branch": "master",
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "fork": false,
+        "full_name": "mattermost/mattermost",
+        "homepage": "https://mattermost.com",
+        "latest_release": "v11.7.2",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 915,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-11T11:48:03Z",
+        "readme_excerpt": "# [![Mattermost logo](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mattermost.com) [Mattermost](https://mattermost.com) is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A ne",
+        "topics": [
+          "collaboration",
+          "golang",
+          "hacktoberfest",
+          "mattermost",
+          "monorepo",
+          "react",
+          "react-native"
+        ],
+        "updated_at": "2026-06-11T11:56:11Z"
+      },
+      "repo": {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "forks": 8689,
+        "full_name": "mattermost/mattermost",
+        "language": "TypeScript",
+        "name": "mattermost",
+        "owner": "mattermost",
+        "rank": 18,
+        "stars_today": 26,
+        "total_stars": 37114,
+        "url": "https://github.com/mattermost/mattermost"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 58.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 26 stars today; score 58.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-14T19:43:14Z",
+        "default_branch": "main",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "fork": false,
+        "full_name": "refactoringhq/tolaria",
+        "homepage": "https://tolaria.md",
+        "latest_release": "v2026-06-10",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 44,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-11T11:22:39Z",
+        "readme_excerpt": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](ht",
+        "topics": [],
+        "updated_at": "2026-06-11T11:53:31Z"
+      },
+      "repo": {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "forks": 1051,
+        "full_name": "refactoringhq/tolaria",
+        "language": "TypeScript",
+        "name": "tolaria",
+        "owner": "refactoringhq",
+        "rank": 8,
+        "stars_today": 612,
+        "total_stars": 15214,
+        "url": "https://github.com/refactoringhq/tolaria"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.78,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 612 stars today; score 57.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-04-27T14:07:58Z",
+        "default_branch": "master",
+        "description": "Fast, secure, efficient backup program",
+        "fork": false,
+        "full_name": "restic/restic",
+        "homepage": "https://restic.net",
+        "latest_release": "v0.19.0",
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 546,
+        "primary_language": "Go",
+        "pushed_at": "2026-06-10T20:53:09Z",
+        "readme_excerpt": "[![Documentation](https://readthedocs.org/projects/restic/badge/?version=latest)](https://restic.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://github.com/restic/restic/workflows/test/badge.svg)](https://github.com/restic/restic/actions?query=workflow%3Atest) [![Go Report Card](https://goreportcard.com/badge/github.com/restic/restic)](https://goreportcard.com/report/github.com/restic/restic) # Introduction restic is a backup program that is fast, efficient and secure. It suppor",
+        "topics": [
+          "backup",
+          "dedupe",
+          "deduplication",
+          "go",
+          "restic",
+          "secure-by-default"
+        ],
+        "updated_at": "2026-06-11T11:52:03Z"
+      },
+      "repo": {
+        "description": "Fast, secure, efficient backup program",
+        "forks": 1780,
+        "full_name": "restic/restic",
+        "language": "Go",
+        "name": "restic",
+        "owner": "restic",
+        "rank": 10,
+        "stars_today": 33,
+        "total_stars": 34002,
+        "url": "https://github.com/restic/restic"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.54
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 33 stars today; score 51.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-01-14T00:34:25Z",
+        "default_branch": "master",
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "fork": false,
+        "full_name": "bannedbook/fanqiang",
+        "homepage": null,
+        "latest_release": "FQNews-v1.3.8",
+        "license_spdx": null,
+        "open_issues": 327,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-05-30T09:01:37Z",
+        "readme_excerpt": "# \u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51\u3001\u7ffb\u5899\u5de5\u5177\u3001\u7ffb\u5899\u6559\u7a0b\u9879\u76ee\u5e93 * [\u7ffb\u5899\u65b0\u95fb-FQNews-\u5b89\u5353APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2) * [\u5b89\u5353\u7ffb\u5899\u8f6f\u4ef6](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) * [\u5b89\u5353\u7ffb\u5899APP\u6559\u7a0b](https://github.com/bannedbook/fanqiang/tree/master/android) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305 Mac\u7248](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacch",
+        "topics": [
+          "brook",
+          "daze",
+          "fanqiang",
+          "goflyway",
+          "lightsocks",
+          "proxy",
+          "psiphon",
+          "shadowsocks",
+          "ssr",
+          "trojan",
+          "v2ray"
+        ],
+        "updated_at": "2026-06-11T11:54:34Z"
+      },
+      "repo": {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "forks": 7990,
+        "full_name": "bannedbook/fanqiang",
+        "language": "Kotlin",
+        "name": "fanqiang",
+        "owner": "bannedbook",
+        "rank": 19,
+        "stars_today": 342,
+        "total_stars": 46533,
+        "url": "https://github.com/bannedbook/fanqiang"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.14,
+        "technical_quality": 11.2,
+        "total": 44.38
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Kotlin project with 342 stars today; score 44.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 18193,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1434,
+        "total_stars": 110980,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.64,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 43.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1434 stars today; score 43.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/x1xhlol",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "forks": 34608,
+        "full_name": "sponsors/x1xhlol",
+        "language": null,
+        "name": "x1xhlol",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 393,
+        "total_stars": 139729,
+        "url": "https://github.com/sponsors/x1xhlol"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.79,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 42.99
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 393 stars today; score 43.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 19931,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 1104,
+        "total_stars": 224344,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.2,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.35,
+        "technical_quality": 3.5,
+        "total": 37.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1104 stars today; score 37.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-05T04:11:06Z",
+        "default_branch": "master",
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "fork": false,
+        "full_name": "TapXWorld/ChinaTextbook",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 113,
+        "primary_language": "Roff",
+        "pushed_at": "2025-10-18T13:39:24Z",
+        "readme_excerpt": "## \u9879\u76ee\u7684\u7531\u6765 \u867d\u7136\u56fd\u5185\u6559\u80b2\u7f51\u7ad9\u5df2\u63d0\u4f9b\u514d\u8d39\u8d44\u6e90\uff0c\u4f46\u5927\u591a\u6570\u666e\u901a\u4eba\u83b7\u53d6\u4fe1\u606f\u7684\u9014\u5f84\u4f9d\u7136\u53d7\u9650\u3002\u6709\u4e9b\u4eba\u5229\u7528\u8fd9\u4e00\u70b9\uff0c\u5728\u67d0\u7ad9\u4e0a\u9500\u552e\u8fd9\u4e9b\u5e26\u6709\u79c1\u4eba\u6c34\u5370\u7684\u8d44\u6e90\u3002\u4e3a\u4e86\u5e94\u5bf9\u8fd9\u79cd\u60c5\u51b5\uff0c\u6211\u8ba1\u5212\u5c06\u8fd9\u4e9b\u8d44\u6e90\u96c6\u4e2d\u5e76\u5f00\u6e90\uff0c\u4ee5\u4fc3\u8fdb\u4e49\u52a1\u6559\u80b2\u7684\u666e\u53ca\u548c\u6d88\u9664\u5730\u533a\u95f4\u7684\u6559\u80b2\u8d2b\u56f0\u3002 \u8fd8\u6709\u4e00\u4e2a\u6700\u91cd\u8981\u7684\u539f\u56e0\u662f\uff0c\u5e0c\u671b\u6d77\u5916\u534e\u4eba\u80fd\u591f\u8ba9\u81ea\u5df1\u7684\u5b69\u5b50\u7ee7\u7eed\u4e86\u89e3\u56fd\u5185\u6559\u80b2\u3002 ## \u5b66\u4e60\u6570\u5b66 \u5e0c\u671b\u672a\u6765\u51fa\u73b0\u66f4\u591a\u4e0d\u662f\u4e3a\u4e86\u8003\u5b66\u800c\u8bfb\u4e66\u7684\u4eba\u3002 ### \u5c0f\u5b66\u6570\u5b66 - [\u4e00\u5e74\u7ea7\u4e0a\u518c](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf) - [\u4e00\u5e74\u7ea7\u4e0b\u518c](https://github.com/TapXW",
+        "topics": [],
+        "updated_at": "2026-06-11T11:51:05Z"
+      },
+      "repo": {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "forks": 16527,
+        "full_name": "TapXWorld/ChinaTextbook",
+        "language": "Roff",
+        "name": "ChinaTextbook",
+        "owner": "TapXWorld",
+        "rank": 16,
+        "stars_today": 345,
+        "total_stars": 73850,
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.24,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 1.32,
+        "technical_quality": 9.1,
+        "total": 36.31
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Roff project with 345 stars today; score 36.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chatwoot",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "forks": 7491,
+        "full_name": "sponsors/chatwoot",
+        "language": "Ruby",
+        "name": "chatwoot",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 31,
+        "total_stars": 30126,
+        "url": "https://github.com/sponsors/chatwoot"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.03,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Ruby project with 31 stars today; score 31.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/soxoj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+        "forks": 2376,
+        "full_name": "sponsors/soxoj",
+        "language": "Python",
+        "name": "soxoj",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 318,
+        "total_stars": 32344,
+        "url": "https://github.com/sponsors/soxoj"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.54,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.85,
+        "technical_quality": 3.5,
+        "total": 19.59
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 318 stars today; score 19.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/masterking32",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "forks": 507,
+        "full_name": "sponsors/masterking32",
+        "language": "Go",
+        "name": "masterking32",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 354,
+        "total_stars": 5472,
+        "url": "https://github.com/sponsors/masterking32"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.58,
+        "technical_quality": 3.5,
+        "total": 18.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 354 stars today; score 18.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-06-11",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is kenn-io/agentsview."
+}

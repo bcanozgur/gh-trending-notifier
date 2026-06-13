@@ -1,0 +1,942 @@
+{
+  "date": "2026-06-13",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-05-28T21:06:04Z",
+        "default_branch": "dev",
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "fork": false,
+        "full_name": "LMCache/LMCache",
+        "homepage": "https://lmcache.ai/",
+        "latest_release": "v0.4.7",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 311,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-13T09:46:58Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"> <img src=\"asset/logo.png\" alt=\"lmcache logo\" width=\"45%\"> </p> <h3 align=\"center\"> A KV Cache Management Layer for Scalable LLM Inference </h3> <hr width=\"78%\"> <h3 align=\"center\"> <a href=\"https://blog.lmcache.ai/\">Blog</a> | <a href=\"https://docs.lmcache.ai/\">Documentation</a> | <a href=\"https://join.slack.com/t/lmcacheworkspace/shared_invite/zt-3zxjao8h0-lRfBfnLqbALOtLsWn2ITxA\">Join Slack</a> | <a href=\"https://docs.lmcache.ai/community/meetings.html\">C",
+        "topics": [
+          "amd",
+          "cuda",
+          "fast",
+          "inference",
+          "kv-cache",
+          "llm",
+          "pytorch",
+          "rocm",
+          "speed",
+          "vllm"
+        ],
+        "updated_at": "2026-06-13T10:01:53Z"
+      },
+      "repo": {
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "forks": 1296,
+        "full_name": "LMCache/LMCache",
+        "language": "Python",
+        "name": "LMCache",
+        "owner": "LMCache",
+        "rank": 9,
+        "stars_today": 28,
+        "total_stars": 8729,
+        "url": "https://github.com/LMCache/LMCache"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 28 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-14T22:00:57Z",
+        "default_branch": "master",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "fork": false,
+        "full_name": "iptv-org/iptv",
+        "homepage": "https://iptv-org.github.io",
+        "latest_release": null,
+        "license_spdx": "Unlicense",
+        "open_issues": 120,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-13T04:47:13Z",
+        "readme_excerpt": "# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. ## Table of contents - \ud83d\ude80 [How to use?](#how-to-use) - \ud83d\udcfa [Playlists](#playlists) - \ud83d\uddd3 [EPG](#epg) - \ud83d\uddc4 [Database](#database) - \ud83d\udc68\u200d\ud83d\udcbb [API](#api) - \ud83d\udcda [Resources](#resources) - \ud83d\udcac [Discussions](#discussions) - \u2753 [FAQ](#faq) - \ud83d\udee0 [Contribution](#contri",
+        "topics": [
+          "iptv",
+          "m3u",
+          "playlist",
+          "streams",
+          "tv"
+        ],
+        "updated_at": "2026-06-13T10:11:51Z"
+      },
+      "repo": {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "forks": 6318,
+        "full_name": "iptv-org/iptv",
+        "language": "TypeScript",
+        "name": "iptv",
+        "owner": "iptv-org",
+        "rank": 5,
+        "stars_today": 179,
+        "total_stars": 118224,
+        "url": "https://github.com/iptv-org/iptv"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 179 stars today; score 60.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-05-01T17:44:02Z",
+        "default_branch": "main",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "fork": false,
+        "full_name": "microsoft/PowerToys",
+        "homepage": null,
+        "latest_release": "v0.100.0",
+        "license_spdx": "MIT",
+        "open_issues": 7207,
+        "primary_language": "C",
+        "pushed_at": "2026-06-13T03:08:21Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> \u00b7 </span> <a hre",
+        "topics": [
+          "advanced-paste",
+          "color-picker",
+          "command-palette",
+          "desktop",
+          "fancyzones",
+          "keyboard-manager",
+          "microsoft-powertoys",
+          "powerrename",
+          "powertoys",
+          "windows",
+          "windows-10",
+          "windows-11"
+        ],
+        "updated_at": "2026-06-13T10:04:28Z"
+      },
+      "repo": {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "forks": 8068,
+        "full_name": "microsoft/PowerToys",
+        "language": "C",
+        "name": "PowerToys",
+        "owner": "microsoft",
+        "rank": 13,
+        "stars_today": 103,
+        "total_stars": 134468,
+        "url": "https://github.com/microsoft/PowerToys"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.12,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 0.87,
+        "technical_quality": 14.0,
+        "total": 50.78
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 103 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/music-assistant",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+        "forks": 426,
+        "full_name": "sponsors/music-assistant",
+        "language": "Python",
+        "name": "music-assistant",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 20,
+        "total_stars": 1882,
+        "url": "https://github.com/sponsors/music-assistant"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.5,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.43,
+        "technical_quality": 3.5,
+        "total": 23.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 20 stars today; score 23.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.2",
+        "license_spdx": "MIT",
+        "open_issues": 131,
+        "primary_language": "Shell",
+        "pushed_at": "2026-06-11T01:40:56Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. ![Addy's Agent Skills](https://addyosmani.com/assets/images/addys-agent-skills.jpg) ``` DEFINE PLAN BUILD VERIFY REVIEW SHIP \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 Idea \u2502 \u2500\u2500\u2500\u25b6 \u2502 Spec \u2502 \u2500\u2500\u2500\u25b6 \u2502 Code",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "antigravity-ide",
+          "claude-code",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-06-13T10:12:36Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 6207,
+        "full_name": "addyosmani/agent-skills",
+        "language": "Shell",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 1,
+        "stars_today": 2656,
+        "total_stars": 57450,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.97,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 2656 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-04T15:13:34Z",
+        "default_branch": "master",
+        "description": "open-source healthcare ai",
+        "fork": false,
+        "full_name": "maziyarpanahi/openmed",
+        "homepage": "https://openmed.life/",
+        "latest_release": "v1.5.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 75,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-12T21:08:15Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/brand/openmed-mascot-lockup.png\" alt=\"OpenMed \u2014 local-first healthcare AI\" width=\"400\" /> <h3>Local-first healthcare AI that never leaves the device</h3> <p><b>Turn clinical text into structured insight with one line of code.</b><br/> Entity extraction, PII de-identification, and 1,000+ specialized medical models that run entirely on your own hardware \u2014 from a one-liner in Python to a native Swift app on iPhone, powered by Apple MLX. No cloud. No vendor lock-i",
+        "topics": [
+          "bert",
+          "deepseek",
+          "healthcare",
+          "ios",
+          "llm",
+          "mlx",
+          "ner",
+          "on-device",
+          "on-premise",
+          "pii",
+          "pii-detection",
+          "qwen",
+          "sovereign-ai",
+          "swift",
+          "swift-package",
+          "swiftui"
+        ],
+        "updated_at": "2026-06-13T10:12:33Z"
+      },
+      "repo": {
+        "description": "open-source healthcare ai",
+        "forks": 315,
+        "full_name": "maziyarpanahi/openmed",
+        "language": "Python",
+        "name": "openmed",
+        "owner": "maziyarpanahi",
+        "rank": 8,
+        "stars_today": 515,
+        "total_stars": 3306,
+        "url": "https://github.com/maziyarpanahi/openmed"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.83,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.93
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 515 stars today; score 68.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-05-28T21:06:04Z",
+        "default_branch": "dev",
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "fork": false,
+        "full_name": "LMCache/LMCache",
+        "homepage": "https://lmcache.ai/",
+        "latest_release": "v0.4.7",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 311,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-13T09:46:58Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"> <img src=\"asset/logo.png\" alt=\"lmcache logo\" width=\"45%\"> </p> <h3 align=\"center\"> A KV Cache Management Layer for Scalable LLM Inference </h3> <hr width=\"78%\"> <h3 align=\"center\"> <a href=\"https://blog.lmcache.ai/\">Blog</a> | <a href=\"https://docs.lmcache.ai/\">Documentation</a> | <a href=\"https://join.slack.com/t/lmcacheworkspace/shared_invite/zt-3zxjao8h0-lRfBfnLqbALOtLsWn2ITxA\">Join Slack</a> | <a href=\"https://docs.lmcache.ai/community/meetings.html\">C",
+        "topics": [
+          "amd",
+          "cuda",
+          "fast",
+          "inference",
+          "kv-cache",
+          "llm",
+          "pytorch",
+          "rocm",
+          "speed",
+          "vllm"
+        ],
+        "updated_at": "2026-06-13T10:01:53Z"
+      },
+      "repo": {
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "forks": 1296,
+        "full_name": "LMCache/LMCache",
+        "language": "Python",
+        "name": "LMCache",
+        "owner": "LMCache",
+        "rank": 9,
+        "stars_today": 28,
+        "total_stars": 8729,
+        "url": "https://github.com/LMCache/LMCache"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 28 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-01T23:33:44Z",
+        "default_branch": "main",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "fork": false,
+        "full_name": "phuryn/pm-skills",
+        "homepage": "https://www.productcompass.pm/p/pm-skills-2-red-team-ship",
+        "latest_release": "v2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": null,
+        "pushed_at": "2026-06-06T14:12:26Z",
+        "readme_excerpt": "![GitHub stars](https://img.shields.io/github/stars/phuryn/pm-skills) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/phuryn/pm-skills/blob/main/CONTRIBUTING.md) [![Companion: pm-skills](https://img.shields.io/badge/companion-pm--brain-blue)](https://github.com/phuryn/pm-brain) # PM Skills Marketpla",
+        "topics": [
+          "agent-skill-repository",
+          "agent-skills",
+          "agentic-skills",
+          "claude-code-marketplace",
+          "claude-code-plugins",
+          "claude-cowork-plugin",
+          "product-management"
+        ],
+        "updated_at": "2026-06-13T10:10:15Z"
+      },
+      "repo": {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "forks": 1779,
+        "full_name": "phuryn/pm-skills",
+        "language": null,
+        "name": "pm-skills",
+        "owner": "phuryn",
+        "rank": 10,
+        "stars_today": 827,
+        "total_stars": 17321,
+        "url": "https://github.com/phuryn/pm-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.29,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.89
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 827 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-30T21:26:05Z",
+        "default_branch": "main",
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+        "fork": false,
+        "full_name": "apple/container",
+        "homepage": "https://apple.github.io/container/documentation/",
+        "latest_release": "1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 315,
+        "primary_language": "Swift",
+        "pushed_at": "2026-06-11T18:42:22Z",
+        "readme_excerpt": "<h1> <img alt=\"Containerization logo\" src=\"./assets/Containerization-Logo.png\" width=\"70\" valign=\"middle\"> &nbsp;container </h1> `container` is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces [OCI-compatible container images](https://github.com/opencontainers/image-spec), so you can pull and run images from any standard container registry. You can push im",
+        "topics": [],
+        "updated_at": "2026-06-13T10:12:15Z"
+      },
+      "repo": {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "forks": 1003,
+        "full_name": "apple/container",
+        "language": "Swift",
+        "name": "container",
+        "owner": "apple",
+        "rank": 4,
+        "stars_today": 3504,
+        "total_stars": 35626,
+        "url": "https://github.com/apple/container"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.72,
+        "technical_quality": 14.0,
+        "total": 64.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 3504 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-14T22:00:57Z",
+        "default_branch": "master",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "fork": false,
+        "full_name": "iptv-org/iptv",
+        "homepage": "https://iptv-org.github.io",
+        "latest_release": null,
+        "license_spdx": "Unlicense",
+        "open_issues": 120,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-13T04:47:13Z",
+        "readme_excerpt": "# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. ## Table of contents - \ud83d\ude80 [How to use?](#how-to-use) - \ud83d\udcfa [Playlists](#playlists) - \ud83d\uddd3 [EPG](#epg) - \ud83d\uddc4 [Database](#database) - \ud83d\udc68\u200d\ud83d\udcbb [API](#api) - \ud83d\udcda [Resources](#resources) - \ud83d\udcac [Discussions](#discussions) - \u2753 [FAQ](#faq) - \ud83d\udee0 [Contribution](#contri",
+        "topics": [
+          "iptv",
+          "m3u",
+          "playlist",
+          "streams",
+          "tv"
+        ],
+        "updated_at": "2026-06-13T10:11:51Z"
+      },
+      "repo": {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "forks": 6318,
+        "full_name": "iptv-org/iptv",
+        "language": "TypeScript",
+        "name": "iptv",
+        "owner": "iptv-org",
+        "rank": 5,
+        "stars_today": 179,
+        "total_stars": 118224,
+        "url": "https://github.com/iptv-org/iptv"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 179 stars today; score 60.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-06-15T06:50:02Z",
+        "default_branch": "master",
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "fork": false,
+        "full_name": "mattermost/mattermost",
+        "homepage": "https://mattermost.com",
+        "latest_release": "v11.7.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 920,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-13T03:11:50Z",
+        "readme_excerpt": "# [![Mattermost logo](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mattermost.com) [Mattermost](https://mattermost.com) is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A ne",
+        "topics": [
+          "collaboration",
+          "golang",
+          "hacktoberfest",
+          "mattermost",
+          "monorepo",
+          "react",
+          "react-native"
+        ],
+        "updated_at": "2026-06-13T10:05:51Z"
+      },
+      "repo": {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "forks": 8723,
+        "full_name": "mattermost/mattermost",
+        "language": "TypeScript",
+        "name": "mattermost",
+        "owner": "mattermost",
+        "rank": 3,
+        "stars_today": 388,
+        "total_stars": 37727,
+        "url": "https://github.com/mattermost/mattermost"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.24,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 55.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 388 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-14T19:43:14Z",
+        "default_branch": "main",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "fork": false,
+        "full_name": "refactoringhq/tolaria",
+        "homepage": "https://tolaria.md",
+        "latest_release": "v2026-06-10",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 52,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-13T09:05:57Z",
+        "readme_excerpt": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](ht",
+        "topics": [],
+        "updated_at": "2026-06-13T10:06:36Z"
+      },
+      "repo": {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "forks": 1087,
+        "full_name": "refactoringhq/tolaria",
+        "language": "TypeScript",
+        "name": "tolaria",
+        "owner": "refactoringhq",
+        "rank": 7,
+        "stars_today": 369,
+        "total_stars": 15975,
+        "url": "https://github.com/refactoringhq/tolaria"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.62,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 369 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-05-01T17:44:02Z",
+        "default_branch": "main",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "fork": false,
+        "full_name": "microsoft/PowerToys",
+        "homepage": null,
+        "latest_release": "v0.100.0",
+        "license_spdx": "MIT",
+        "open_issues": 7207,
+        "primary_language": "C",
+        "pushed_at": "2026-06-13T03:08:21Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> \u00b7 </span> <a hre",
+        "topics": [
+          "advanced-paste",
+          "color-picker",
+          "command-palette",
+          "desktop",
+          "fancyzones",
+          "keyboard-manager",
+          "microsoft-powertoys",
+          "powerrename",
+          "powertoys",
+          "windows",
+          "windows-10",
+          "windows-11"
+        ],
+        "updated_at": "2026-06-13T10:04:28Z"
+      },
+      "repo": {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "forks": 8068,
+        "full_name": "microsoft/PowerToys",
+        "language": "C",
+        "name": "PowerToys",
+        "owner": "microsoft",
+        "rank": 13,
+        "stars_today": 103,
+        "total_stars": 134468,
+        "url": "https://github.com/microsoft/PowerToys"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.12,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 0.87,
+        "technical_quality": 14.0,
+        "total": 50.78
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 103 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 20114,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 1275,
+        "total_stars": 226389,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.94,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1275 stars today; score 35.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 18363,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 1026,
+        "total_stars": 112681,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.48,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1026 stars today; score 32.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/music-assistant",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+        "forks": 426,
+        "full_name": "sponsors/music-assistant",
+        "language": "Python",
+        "name": "music-assistant",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 20,
+        "total_stars": 1882,
+        "url": "https://github.com/sponsors/music-assistant"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.5,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.43,
+        "technical_quality": 3.5,
+        "total": 23.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 20 stars today; score 23.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/masterking32",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "forks": 548,
+        "full_name": "sponsors/masterking32",
+        "language": "Go",
+        "name": "masterking32",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 400,
+        "total_stars": 6142,
+        "url": "https://github.com/sponsors/masterking32"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.12,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.27,
+        "technical_quality": 3.5,
+        "total": 17.59
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 400 stars today; score 17.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-06-13",
+  "summary": "Today leans toward daily developer signal; the strongest pick is LMCache/LMCache."
+}

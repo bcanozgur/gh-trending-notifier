@@ -1,0 +1,26 @@
+GitHub Trending: daily developer signal - 2026-06-13
+
+Today leans toward daily developer signal; the strongest pick is LMCache/LMCache.
+
+Top picks
+1. LMCache/LMCache - 68.3/100
+   https://github.com/LMCache/LMCache
+   AI Workflow, Try Today: Python project with 28 stars today; score 68.3/100.
+2. iptv-org/iptv - 60.9/100
+   https://github.com/iptv-org/iptv
+   AI Workflow, DevTools: TypeScript project with 179 stars today; score 60.9/100.
+3. microsoft/PowerToys - 50.8/100
+   https://github.com/microsoft/PowerToys
+   Try Today: C project with 103 stars today; score 50.8/100.
+4. sponsors/music-assistant - 23.3/100
+   https://github.com/sponsors/music-assistant
+   Watch, Hype Risk: Python project with 20 stars today; score 23.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- LMCache/LMCache: 68.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 28 stars today; score 68.3/100.
+- iptv-org/iptv: 60.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 179 stars today; score 60.9/100.
+- microsoft/PowerToys: 50.8/100 [Try Today] Try Today: C project with 103 stars today; score 50.8/100.
+- sponsors/music-assistant: 23.3/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 20 stars today; score 23.3/100.
+
+Generated for 2026-06-13 from GitHub Trending daily.
